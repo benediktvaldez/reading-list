@@ -39,7 +39,7 @@ Feel free to add suggestions via PR in here.
 
 I've backdated all my audible listens (since I can easily do so by reviewing my purchases and listens in the Audible app), so these are obviously not ALL books I've ever read, but at least most of the books I've read in the last 3 years. Books are listed in the month they were finished.
 
-## 2017
+## 2017 – *26*
 
 ### May
 
@@ -106,7 +106,7 @@ I've backdated all my audible listens (since I can easily do so by reviewing my 
 
 #### The Utterly Uninteresting and Unadventurous Tales of Fred, the Vampire Accountant *(Fred, the Vampire Accountant #1)* by Drew Hayes
 
-## 2016
+## 2016 – *42*
 
 ### December
 
@@ -222,7 +222,7 @@ I've backdated all my audible listens (since I can easily do so by reviewing my 
 
 #### The Android's Dream by John Scalzi
 
-## 2015
+## 2015 – *31*
 
 ### December
 
@@ -308,7 +308,7 @@ I've backdated all my audible listens (since I can easily do so by reviewing my 
 
 #### The Martian by Andy Weirr
 
-## 2014
+## 2014 – *10*
 
 ### December
 
