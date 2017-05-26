@@ -6,7 +6,7 @@ I try to link to goodreads.com for each book, and if it is a part of a series I 
 
 ### Currently reading
 
-#### [Fight and Flight](https://www.goodreads.com/book/show/33395946-fight-and-flight) *(Magic 2.0 #4)* by Scott Meyer
+#### [The Silkworm](https://www.goodreads.com/book/show/18214414-the-silkworm) *(Cormoran Strike #2)* by Robert Galbraith (pseudonym for J.K. Rowling)
 
 ---
 
@@ -15,8 +15,6 @@ I try to link to goodreads.com for each book, and if it is a part of a series I 
 Feel free to add suggestions via PR in here.
 
 #### [Fantastic Beasts and Where to Find Them: The Original Screenplay](https://www.goodreads.com/book/show/29363501-fantastic-beasts-and-where-to-find-them) by J.K. Rowling
-
-#### [The Silkworm](https://www.goodreads.com/book/show/18214414-the-silkworm) *(Cormoran Strike #2)* by Robert Galbraith (pseudonym for J.K. Rowling)
 
 #### [Sherlock Holmes](https://www.goodreads.com/book/show/188572.The_Complete_Sherlock_Holmes) by Arthur Conan Doyle
 > Audible released a new version of the [complete collection](https://www.audible.com/pd/Mysteries-Thrillers/Sherlock-Holmes-Audiobook/B06WLMWF2S) narrated by Stephen Fry, with introductions for each story by Stephen Fry. A solid deal for audible members (only 1 credit!).
@@ -39,9 +37,11 @@ Feel free to add suggestions via PR in here.
 
 I've backdated all my audible listens (since I can easily do so by reviewing my purchases and listens in the Audible app), so these are obviously not ALL books I've ever read, but at least most of the books I've read in the last 3 years. Books are listed in the month they were finished.
 
-## 2017 – *26*
+## 2017 – *27*
 
 ### May
+
+#### [Fight and Flight](https://www.goodreads.com/book/show/33395946-fight-and-flight) *(Magic 2.0 #4)* by Scott Meyer
 
 #### [The Cuckoo's Calling](https://www.goodreads.com/book/show/16160797-the-cuckoo-s-calling) *(Cormoran Strike #1)* by Robert Galbraith (pseudonym for J.K. Rowling)
 
