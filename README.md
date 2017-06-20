@@ -6,7 +6,7 @@ I try to link to goodreads.com for each book, and if it is a part of a series I 
 
 ### Currently reading
 
-#### [The Silkworm](https://www.goodreads.com/book/show/18214414-the-silkworm) *(Cormoran Strike #2)* by Robert Galbraith (pseudonym for J.K. Rowling)
+#### [Lolita](https://www.goodreads.com/book/show/7604.Lolita) by Vladimir Nabokov
 
 ---
 
@@ -20,8 +20,6 @@ Feel free to add suggestions via PR in here.
 > Audible released a new version of the [complete collection](https://www.audible.com/pd/Mysteries-Thrillers/Sherlock-Holmes-Audiobook/B06WLMWF2S) narrated by Stephen Fry, with introductions for each story by Stephen Fry. A solid deal for audible members (only 1 credit!).
 
 #### [Gathering Blue](https://www.goodreads.com/book/show/12936.Gathering_Blue) *(Giver Quartet #2)* by Lois Lowry
-
-#### [Orphan X](https://www.goodreads.com/book/show/25663888-orphan-x) *(Evan Smoak #1)* by Gregg Hurwitz
 
 #### [Leviathan](https://www.goodreads.com/book/show/6050678-leviathan) *(Leviathan #1)* by Scott Westerfeld
 
@@ -37,9 +35,23 @@ Feel free to add suggestions via PR in here.
 
 I've backdated all my audible listens (since I can easily do so by reviewing my purchases and listens in the Audible app), so these are obviously not ALL books I've ever read, but at least most of the books I've read in the last 3 years. Books are listed in the month they were finished.
 
-## 2017 – *27*
+## 2017 – *33*
+
+### June
+
+#### [The Nowhere Man](https://www.goodreads.com/book/show/29939343-the-nowhere-man) *(Orphan X/Evan Smoak #3)* by Gregg Hurwitz
+
+#### [Buy a Bullet](https://www.goodreads.com/book/show/32076616-buy-a-bullet) *(Orphan X/Evan Smoak #2)* by Gregg Hurwitz
+
+#### [Orphan X](https://www.goodreads.com/book/show/25663888-orphan-x) *(Orphan X/Evan Smoak #1)* by Gregg Hurwitz
+
+#### [Fahrenheit 451](https://www.goodreads.com/book/show/4381.Fahrenheit_451) by Ray Bradbury
 
 ### May
+
+#### [Career of Evil](https://www.goodreads.com/book/show/25735012-career-of-evil) *(Cormoran Strike #3)* by Robert Galbraith (pseudonym for J.K. Rowling)
+
+#### [The Silkworm](https://www.goodreads.com/book/show/18214414-the-silkworm) *(Cormoran Strike #2)* by Robert Galbraith (pseudonym for J.K. Rowling)
 
 #### [Fight and Flight](https://www.goodreads.com/book/show/33395946-fight-and-flight) *(Magic 2.0 #4)* by Scott Meyer
 
@@ -50,7 +62,7 @@ I've backdated all my audible listens (since I can easily do so by reviewing my 
 #### [Thirteen Reasons Why](https://www.goodreads.com/book/show/29844228-thirteen-reasons-why) by Jay Asher
 > Was inspired to read it after watching the Netflix series. Very different from the series, which is reasonable for a book vs 13 episodes. Hearing Hanna's side read was a very different experience from watching it though.
 
-#### [The Handmaid's Tale](https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale) by Margaret Atwood 
+#### [The Handmaid's Tale](https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale) by Margaret Atwood
 > Cannot recommend this book enough, especially in the current political climate.
 
 #### [For We Are Many](https://www.goodreads.com/book/show/33395557-for-we-are-many) *(Bobiverse #2)* by Dennis E. Taylor
