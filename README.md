@@ -6,6 +6,8 @@ I try to link to goodreads.com for each book, and if it is a part of a series I 
 
 ### Currently reading
 
+#### [Goliath](https://www.goodreads.com/book/show/9918083-goliath) *(Leviathan #3)* by Scott Westerfeld
+
 #### [Lolita](https://www.goodreads.com/book/show/7604.Lolita) by Vladimir Nabokov
 
 ---
@@ -21,8 +23,6 @@ Feel free to add suggestions via PR in here.
 
 #### [Gathering Blue](https://www.goodreads.com/book/show/12936.Gathering_Blue) *(Giver Quartet #2)* by Lois Lowry
 
-#### [Leviathan](https://www.goodreads.com/book/show/6050678-leviathan) *(Leviathan #1)* by Scott Westerfeld
-
 #### [Plague of the Dead](https://www.goodreads.com/book/show/46723.Plague_of_the_Dead) *(Morningstar Strain #1)* by Z. A. Recht
 
 #### [The Collapsing Empire](https://www.goodreads.com/book/show/30078567-the-collapsing-empire) *(The Interdependency #1)* by John Scalzi
@@ -35,9 +35,15 @@ Feel free to add suggestions via PR in here.
 
 I've backdated all my audible listens (since I can easily do so by reviewing my purchases and listens in the Audible app), so these are obviously not ALL books I've ever read, but at least most of the books I've read in the last 3 years. Books are listed in the month they were finished.
 
-## 2017 – *33*
+## 2017 – *35*
+
+### July
+
+#### [Behemoth](https://www.goodreads.com/book/show/7826116-behemoth) *(Leviathan #2)* by Scott Westerfeld
 
 ### June
+
+#### [Leviathan](https://www.goodreads.com/book/show/6050678-leviathan) *(Leviathan #1)* by Scott Westerfeld
 
 #### [The Nowhere Man](https://www.goodreads.com/book/show/29939343-the-nowhere-man) *(Orphan X/Evan Smoak #3)* by Gregg Hurwitz
 
