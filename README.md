@@ -8,7 +8,7 @@ I try to link to goodreads.com for each book, and if it is a part of a series I 
 
 #### [The Unlikely Pilgrimage of Harold Fry](https://www.goodreads.com/book/show/13227454-the-unlikely-pilgrimage-of-harold-fry) *(Harold Fry #1)* by Rachel Joyce
 
-#### [Lolita](https://www.goodreads.com/book/show/7604.Lolita) by Vladimir Nabokov
+#### ⏸️ [Lolita](https://www.goodreads.com/book/show/7604.Lolita) by Vladimir Nabokov
 
 ---
 
@@ -39,21 +39,21 @@ Feel free to add suggestions via PR in here.
 
 #### [Ponzi Supernova](https://www.goodreads.com/book/show/34851487-ponzi-supernova) by Steve Fishman
 
-#### [Upside-Down Magic](https://www.goodreads.com/book/show/24998996-upside-down-magic) *(Upside-Down Magic #1)* by Sarah Mlynowski
-
-#### [Sticks & Stones](https://www.goodreads.com/book/show/26892060-sticks-stones) *(Upside-Down Magic #2)* by Sarah Mlynowski
-
-#### [Showing Off](https://www.goodreads.com/book/show/30254933-showing-off) *(Upside-Down Magic #3)* by Sarah Mlynowski
-
 #### [Buy-In: Saving Your Good Idea from Getting Shot Down](https://www.goodreads.com/book/show/8559737-buy-in) by John P. Kotter
 
 ---
 
 I've backdated all my audible listens (since I can easily do so by reviewing my purchases and listens in the Audible app), so these are obviously not ALL books I've ever read, but at least most of the books I've read in the last 3 years. Books are listed in the month they were finished.
 
-## 2017 – *39*
+## 2017 – *42*
 
 ### July
+
+#### [Showing Off](https://www.goodreads.com/book/show/30254933-showing-off) *(Upside-Down Magic #3)* by Sarah Mlynowski
+
+#### [Sticks & Stones](https://www.goodreads.com/book/show/26892060-sticks-stones) *(Upside-Down Magic #2)* by Sarah Mlynowski
+
+#### [Upside-Down Magic](https://www.goodreads.com/book/show/24998996-upside-down-magic) *(Upside-Down Magic #1)* by Sarah Mlynowski
 
 #### [Dead Men Can't Complan and Other Stories](https://www.goodreads.com/book/show/35222799-dead-men-can-t-complain) by Peter Clines
 
