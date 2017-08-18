@@ -6,7 +6,12 @@ I try to link to goodreads.com for each book, and if it is a part of a series I 
 
 ### Currently reading
 
-#### [The Unlikely Pilgrimage of Harold Fry](https://www.goodreads.com/book/show/13227454-the-unlikely-pilgrimage-of-harold-fry) *(Harold Fry #1)* by Rachel Joyce
+#### [Earthfall](https://www.goodreads.com/book/show/31354.Earthfall) *(Homecoming #4)* by Orson Scott Card
+
+#### [Sherlock Holmes](https://www.goodreads.com/book/show/188572.The_Complete_Sherlock_Holmes) by Arthur Conan Doyle
+> Audible released a new version of the [complete collection](https://www.audible.com/pd/Mysteries-Thrillers/Sherlock-Holmes-Audiobook/B06WLMWF2S) narrated by Stephen Fry, with introductions for each story by Stephen Fry. A solid deal for audible members (only 1 credit!).
+
+#### ⏸️ [The Unlikely Pilgrimage of Harold Fry](https://www.goodreads.com/book/show/13227454-the-unlikely-pilgrimage-of-harold-fry) *(Harold Fry #1)* by Rachel Joyce
 
 #### ⏸️ [Lolita](https://www.goodreads.com/book/show/7604.Lolita) by Vladimir Nabokov
 
@@ -16,8 +21,6 @@ I try to link to goodreads.com for each book, and if it is a part of a series I 
 
 #### [It Can't Happen Here](https://www.goodreads.com/book/show/11371.It_Can_t_Happen_Here) by Sinclair Lewis
 
-#### [Animal Farm](https://www.goodreads.com/book/show/7613.Animal_Farm) by George Orwell
-
 #### [The Great Gatsby](https://www.goodreads.com/book/show/4671.The_Great_Gatsby) by F. Scott Fitzgerald
 
 ### Queued for consideration (unordered)
@@ -25,9 +28,6 @@ I try to link to goodreads.com for each book, and if it is a part of a series I 
 Feel free to add suggestions via PR in here.
 
 #### [Fantastic Beasts and Where to Find Them: The Original Screenplay](https://www.goodreads.com/book/show/29363501-fantastic-beasts-and-where-to-find-them) by J.K. Rowling
-
-#### [Sherlock Holmes](https://www.goodreads.com/book/show/188572.The_Complete_Sherlock_Holmes) by Arthur Conan Doyle
-> Audible released a new version of the [complete collection](https://www.audible.com/pd/Mysteries-Thrillers/Sherlock-Holmes-Audiobook/B06WLMWF2S) narrated by Stephen Fry, with introductions for each story by Stephen Fry. A solid deal for audible members (only 1 credit!).
 
 #### [Gathering Blue](https://www.goodreads.com/book/show/12936.Gathering_Blue) *(Giver Quartet #2)* by Lois Lowry
 
@@ -45,7 +45,13 @@ Feel free to add suggestions via PR in here.
 
 I've backdated all my audible listens (since I can easily do so by reviewing my purchases and listens in the Audible app), so these are obviously not ALL books I've ever read, but at least most of the books I've read in the last 3 years. Books are listed in the month they were finished.
 
-## 2017 – *42*
+## 2017 – *44*
+
+### August
+
+#### [The Ships of Earth](https://www.goodreads.com/book/show/24441.The_Ships_of_Earth) *(Homecoming #3)* by Orson Scott Card
+
+#### [Animal Farm](https://www.goodreads.com/book/show/7613.Animal_Farm) by George Orwell
 
 ### July
 
