@@ -6,26 +6,34 @@ I try to link to goodreads.com for each book, and if it is a part of a series I 
 
 ### Currently reading
 
-#### [Earthfall](https://www.goodreads.com/book/show/31354.Earthfall) *(Homecoming #4)* by Orson Scott Card
+#### [Anansi Boys](https://www.goodreads.com/book/show/2744.Anansi_Boys) *(American Gods #2)* by Neil Gaiman
 
-#### [Sherlock Holmes](https://www.goodreads.com/book/show/188572.The_Complete_Sherlock_Holmes) by Arthur Conan Doyle
+---
+
+### Upcoming queue
+
+#### [Fragile Things](https://www.goodreads.com/book/show/16788.Fragile_Things) by Neil Gaiman
+
+#### [Smoke and Mirrors](https://www.goodreads.com/book/show/16790.Smoke_and_Mirrors) by Neil Gaiman
+
+#### [Trigger Warning: Short Fictions and Disturbances](https://www.goodreads.com/book/show/22522808-trigger-warning) by Neil Gaiman
+
+#### [The Ocean at the End of the Lane](https://www.goodreads.com/book/show/15783514-the-ocean-at-the-end-of-the-lane) by Neil Gaiman
+
+### Queued for consideration (unordered)
+
+Feel free to add suggestions via PR in here.
+
+#### ⏸️ [Sherlock Holmes](https://www.goodreads.com/book/show/188572.The_Complete_Sherlock_Holmes) by Arthur Conan Doyle
 > Audible released a new version of the [complete collection](https://www.audible.com/pd/Mysteries-Thrillers/Sherlock-Holmes-Audiobook/B06WLMWF2S) narrated by Stephen Fry, with introductions for each story by Stephen Fry. A solid deal for audible members (only 1 credit!).
 
 #### ⏸️ [The Unlikely Pilgrimage of Harold Fry](https://www.goodreads.com/book/show/13227454-the-unlikely-pilgrimage-of-harold-fry) *(Harold Fry #1)* by Rachel Joyce
 
 #### ⏸️ [Lolita](https://www.goodreads.com/book/show/7604.Lolita) by Vladimir Nabokov
 
----
-
-### Upcoming queue
-
 #### [It Can't Happen Here](https://www.goodreads.com/book/show/11371.It_Can_t_Happen_Here) by Sinclair Lewis
 
 #### [The Great Gatsby](https://www.goodreads.com/book/show/4671.The_Great_Gatsby) by F. Scott Fitzgerald
-
-### Queued for consideration (unordered)
-
-Feel free to add suggestions via PR in here.
 
 #### [Fantastic Beasts and Where to Find Them: The Original Screenplay](https://www.goodreads.com/book/show/29363501-fantastic-beasts-and-where-to-find-them) by J.K. Rowling
 
@@ -45,9 +53,29 @@ Feel free to add suggestions via PR in here.
 
 I've backdated all my audible listens (since I can easily do so by reviewing my purchases and listens in the Audible app), so these are obviously not ALL books I've ever read, but at least most of the books I've read in the last 3 years. Books are listed in the month they were finished.
 
-## 2017 – *44*
+## 2017 – *53*
+
+### September
+
+#### [The Graveyard Book](https://www.goodreads.com/book/show/2213661.The_Graveyard_Book) by Neil Gaiman
+
+#### [Stardust](https://www.goodreads.com/book/show/16793.Stardust) by Neil Gaiman
+
+#### [Coraline](https://www.goodreads.com/book/show/17061.Coraline) by Neil Gaiman
+
+#### [How the marquis got his coat back](https://www.goodreads.com/book/show/26699591-how-the-marquis-got-his-coat-back) by Neil Gaiman
+
+#### [Neverwhere](https://www.goodreads.com/book/show/14497.Neverwhere) by Neil Gaiman
 
 ### August
+
+#### [Good Omens](https://www.goodreads.com/book/show/23347067-good-omens) by Neil Gaiman and Terry Pratchett
+
+#### [American Gods](https://www.goodreads.com/book/show/30165203-american-gods) *(American Gods #1)* by Neil Gaiman
+
+#### [Earthborn](https://www.goodreads.com/book/show/210482.Earthborn) *(Homecoming #5)* by Orson Scott Card
+
+#### [Earthfall](https://www.goodreads.com/book/show/31354.Earthfall) *(Homecoming #4)* by Orson Scott Card
 
 #### [The Ships of Earth](https://www.goodreads.com/book/show/24441.The_Ships_of_Earth) *(Homecoming #3)* by Orson Scott Card
 
