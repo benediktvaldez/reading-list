@@ -27,13 +27,9 @@ Feel free to add suggestions via PR in here.
 #### ⏸️ [Sherlock Holmes](https://www.goodreads.com/book/show/188572.The_Complete_Sherlock_Holmes) by Arthur Conan Doyle
 > Audible released a new version of the [complete collection](https://www.audible.com/pd/Mysteries-Thrillers/Sherlock-Holmes-Audiobook/B06WLMWF2S) narrated by Stephen Fry, with introductions for each story by Stephen Fry. A solid deal for audible members (only 1 credit!).
 
-#### ⏸️ [The Unlikely Pilgrimage of Harold Fry](https://www.goodreads.com/book/show/13227454-the-unlikely-pilgrimage-of-harold-fry) *(Harold Fry #1)* by Rachel Joyce
-
 #### ⏸️ [Lolita](https://www.goodreads.com/book/show/7604.Lolita) by Vladimir Nabokov
 
 #### [It Can't Happen Here](https://www.goodreads.com/book/show/11371.It_Can_t_Happen_Here) by Sinclair Lewis
-
-#### [The Great Gatsby](https://www.goodreads.com/book/show/4671.The_Great_Gatsby) by F. Scott Fitzgerald
 
 #### [Fantastic Beasts and Where to Find Them: The Original Screenplay](https://www.goodreads.com/book/show/29363501-fantastic-beasts-and-where-to-find-them) by J.K. Rowling
 
