@@ -6,19 +6,13 @@ I try to link to goodreads.com for each book, and if it is a part of a series I 
 
 ### Currently reading
 
-#### [Anansi Boys](https://www.goodreads.com/book/show/2744.Anansi_Boys) *(American Gods #2)* by Neil Gaiman
+#### [Earth's Gambit](https://www.goodreads.com/book/show/36010402-earth-s-gambit) *(The Gam3 #2)* by Cosimo Yap
 
 ---
 
 ### Upcoming queue
 
-#### [Fragile Things](https://www.goodreads.com/book/show/16788.Fragile_Things) by Neil Gaiman
-
-#### [Smoke and Mirrors](https://www.goodreads.com/book/show/16790.Smoke_and_Mirrors) by Neil Gaiman
-
-#### [Trigger Warning: Short Fictions and Disturbances](https://www.goodreads.com/book/show/22522808-trigger-warning) by Neil Gaiman
-
-#### [The Ocean at the End of the Lane](https://www.goodreads.com/book/show/15783514-the-ocean-at-the-end-of-the-lane) by Neil Gaiman
+#### [Aristotle and Dante discover the Secrets of the Universe](https://www.goodreads.com/book/show/12000020-aristotle-and-dante-discover-the-secrets-of-the-universe) by Benjamin Alire Sáenz
 
 ### Queued for consideration (unordered)
 
@@ -35,8 +29,6 @@ Feel free to add suggestions via PR in here.
 
 #### [Gathering Blue](https://www.goodreads.com/book/show/12936.Gathering_Blue) *(Giver Quartet #2)* by Lois Lowry
 
-#### [Plague of the Dead](https://www.goodreads.com/book/show/46723.Plague_of_the_Dead) *(Morningstar Strain #1)* by Z. A. Recht
-
 #### [The Collapsing Empire](https://www.goodreads.com/book/show/30078567-the-collapsing-empire) *(The Interdependency #1)* by John Scalzi
 
 #### [Metro 2033](https://www.goodreads.com/book/show/17274667-metro-2033) *(Metro #1)* by Dmitry Glukhovsky
@@ -49,9 +41,35 @@ Feel free to add suggestions via PR in here.
 
 I've backdated all my audible listens (since I can easily do so by reviewing my purchases and listens in the Audible app), so these are obviously not ALL books I've ever read, but at least most of the books I've read in the last 3 years. Books are listed in the month they were finished.
 
-## 2017 – *53*
+Running total: *146* books
+
+## 2017 – *63*
+
+### November
+
+#### [Machine Learning: New and Collected Stories](https://www.goodreads.com/book/show/33503613-machine-learning) by Hugh Howey
+
+### October
+
+#### [Paradox Bound](https://www.goodreads.com/book/show/33825757-paradox-bound) by Peter Clines
+
+#### [Executed](https://www.goodreads.com/book/show/33871930-executed-2) *(Extracted #2)* by R. R. Haywood
+
+#### [Extracted](https://www.goodreads.com/book/show/31578285-extracted) *(Extracted #1)* by R. R. Haywood
+
+#### [Plague of the Dead](https://www.goodreads.com/book/show/46723.Plague_of_the_Dead) *(Morningstar Strain #1)* by Z. A. Recht
+
+#### [The Ocean at the End of the Lane](https://www.goodreads.com/book/show/15783514-the-ocean-at-the-end-of-the-lane) by Neil Gaiman
+
+#### [Trigger Warning: Short Fictions and Disturbances](https://www.goodreads.com/book/show/22522808-trigger-warning) by Neil Gaiman
 
 ### September
+
+#### [Fragile Things](https://www.goodreads.com/book/show/16788.Fragile_Things) by Neil Gaiman
+
+#### [Smoke and Mirrors](https://www.goodreads.com/book/show/16790.Smoke_and_Mirrors) by Neil Gaiman
+
+#### [Anansi Boys](https://www.goodreads.com/book/show/2744.Anansi_Boys) *(American Gods #2)* by Neil Gaiman
 
 #### [The Graveyard Book](https://www.goodreads.com/book/show/2213661.The_Graveyard_Book) by Neil Gaiman
 
@@ -155,7 +173,7 @@ I've backdated all my audible listens (since I can easily do so by reviewing my 
 
 #### Sapiens: A Brief History of Humankind by Yuval Noah Harari
 
-#### Opening Moves *(The Gam3 #1)* by Cosimo Yap
+#### [Opening Moves](https://www.goodreads.com/book/show/29618814-opening-moves) *(The Gam3 #1)* by Cosimo Yap
 
 #### Where the Hell is Tesla? by Rob Dircks
 
