@@ -6,13 +6,11 @@ I try to link to goodreads.com for each book, and if it is a part of a series I 
 
 ## Currently reading
 
-### [Earth's Gambit](https://www.goodreads.com/book/show/36010402-earth-s-gambit) _(The Gam3 #2)_ by Cosimo Yap
+#### [Will Save the Galaxy for Food] by Yahtzee Croshaw
 
 ---
 
 ### Upcoming queue
-
-#### [Aristotle and Dante discover the Secrets of the Universe](https://www.goodreads.com/book/show/12000020-aristotle-and-dante-discover-the-secrets-of-the-universe) by Benjamin Alire Sáenz
 
 ### Queued for consideration (unordered)
 
@@ -30,23 +28,49 @@ Feel free to add suggestions via PR in here.
 
 #### [Gathering Blue](https://www.goodreads.com/book/show/12936.Gathering_Blue) _(Giver Quartet #2)_ by Lois Lowry
 
-#### [The Collapsing Empire](https://www.goodreads.com/book/show/30078567-the-collapsing-empire) _(The Interdependency #1)_ by John Scalzi
-
 #### [Metro 2033](https://www.goodreads.com/book/show/17274667-metro-2033) _(Metro #1)_ by Dmitry Glukhovsky
 
 #### [Ponzi Supernova](https://www.goodreads.com/book/show/34851487-ponzi-supernova) by Steve Fishman
-
-#### [Buy-In: Saving Your Good Idea from Getting Shot Down](https://www.goodreads.com/book/show/8559737-buy-in) by John P. Kotter
 
 ---
 
 I've backdated all my audible listens (since I can easily do so by reviewing my purchases and listens in the Audible app), so these are obviously not ALL books I've ever read, but at least most of the books I've read in the last 3 years. Books are listed in the month they were finished.
 
-Running total: _146_ books
+Running total: _157_ books
 
-## 2017 – _63_
+## 2018 - _3_
+
+### February
+
+### January
+
+#### [Never Let Me Go] by Kazuo Ishiguro
+
+#### [Turtles All the Way Down] by John Green
+
+#### [Wonder] by R. J. Palacio
+
+## 2017 – _71_
+
+### December
+
+#### [The Fangs of Freelance] _(Fred, the Vampire Accountant #4)_ by Drew Hayes
+
+#### [The Hate U Give] by Angie Thomas
+
+#### [Don't Touch the Blue Stuff!] _(Where the hell is Tesla? #2)_ by Rob Dircks
 
 ### November
+
+#### [The Collapsing Empire](https://www.goodreads.com/book/show/30078567-the-collapsing-empire) _(The Interdependency #1)_ by John Scalzi
+
+#### [Artemis] by Andy Weir
+
+#### [Aristotle and Dante discover the Secrets of the Universe](https://www.goodreads.com/book/show/12000020-aristotle-and-dante-discover-the-secrets-of-the-universe) by Benjamin Alire Sáenz
+
+#### [Nice Girls Don't Have Fangs] by Molly Harper
+
+#### [Earth's Gambit](https://www.goodreads.com/book/show/36010402-earth-s-gambit) _(The Gam3 #2)_ by Cosimo Yap
 
 #### [Machine Learning: New and Collected Stories](https://www.goodreads.com/book/show/33503613-machine-learning) by Hugh Howey
 
@@ -180,7 +204,7 @@ Running total: _146_ books
 
 #### [Opening Moves](https://www.goodreads.com/book/show/29618814-opening-moves) _(The Gam3 #1)_ by Cosimo Yap
 
-#### Where the Hell is Tesla? by Rob Dircks
+#### [Where the Hell is Tesla?] _(Where the Hell is Tesla? #1)_ by Rob Dircks
 
 #### The Wrong Unit: A Novel by Rob Dircks
 
